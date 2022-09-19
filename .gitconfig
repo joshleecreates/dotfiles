@@ -1,0 +1,7 @@
+[user]
+	email = josh@joshuamlee.com
+	name = Josh Lee
+[core]
+	editor = vim
+[init]
+	defaultBranch = main
