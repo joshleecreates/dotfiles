@@ -53,5 +53,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 . /home/linuxbrew/.linuxbrew/opt/asdf/libexec/asdf.sh
+alias composer="docker run --rm --interactive --tty  --volume $PWD:/app composer" 
 
 eval $(thefuck --alias)
